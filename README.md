@@ -17,35 +17,14 @@ Cài đặt Python:
 Tải và cài đặt Python từ trang chính thức. Đảm bảo thêm Python vào PATH trong quá trình cài đặt.
 Cài đặt Pygame:
 Mở terminal (Command Prompt, PowerShell, hoặc terminal khác) và chạy lệnh sau:
-text
-
-Thu gọn
-
-Bọc lại
-
-Sao chép
 pip install pygame
 Tải mã nguồn:
 Sao chép mã nguồn của trò chơi vào một tệp có tên ring_sorting_game.py. Bạn có thể lưu tệp này vào bất kỳ thư mục nào, ví dụ: C:/ring_sorting_game.py.
 How to Play
 Running the Game
 Mở terminal và di chuyển đến thư mục chứa tệp ring_sorting_game.py. Ví dụ:
-text
-
-Thu gọn
-
-Bọc lại
-
-Sao chép
 cd C:\
 Chạy trò chơi bằng lệnh:
-text
-
-Thu gọn
-
-Bọc lại
-
-Sao chép
 python ring_sorting_game.py
 Game Rules
 Trò chơi có 6 cột (A, B, C, D, E, F):
@@ -73,13 +52,6 @@ Thông báo "You Win!" khi hoàn thành trò chơi.
 Thông báo "Game Over! Move Limit Reached!" nếu vượt quá 50 bước.
 Trên terminal:
 Lịch sử di chuyển được in ra sau mỗi nước đi, với định dạng:
-text
-
-Thu gọn
-
-Bọc lại
-
-Sao chép
 Move History:
 Step 1: Pole A -> Pole E
 Step 2: Pole B -> Pole F
